@@ -1,0 +1,12 @@
+# Streamlit web dashboard
+streamlit==1.67.0
+plotly>=5.20,<7
+
+# Data processing and machine learning
+pandas>=2.0,<4
+numpy>=1.24,<3
+scikit-learn>=1.3,<2
+ucimlrepo>=0.0.7
+
+# Required by the original command-line project (main.py)
+matplotlib>=3.7,<4
